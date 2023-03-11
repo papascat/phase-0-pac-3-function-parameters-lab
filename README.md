@@ -1,4 +1,4 @@
-# JavaScript Function Parameters Lab
+npm install# JavaScript Function Parameters Lab
 
 ## Learning Goals
 
